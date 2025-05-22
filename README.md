@@ -27,4 +27,5 @@
 ---
 
 ## 화면
-![image](https://github.com/user-attachments/assets/24d86f6a-e3b3-4d6a-8413-faa629d83993)
+![image](https://github.com/user-attachments/assets/af965af4-72fe-46fa-a8b1-31dc72a302ca)
+
