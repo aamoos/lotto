@@ -24,5 +24,7 @@
 - **Spring Data JPA**  
 - **Bootstrap** (프론트엔드 스타일링)
 
+---
+
 ## 화면
 ![image](https://github.com/user-attachments/assets/24d86f6a-e3b3-4d6a-8413-faa629d83993)
