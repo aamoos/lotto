@@ -21,7 +21,8 @@
 - **Spring Boot** 3.4.5  
 - **Java** 17  
 - **QueryDSL**  
-- **Spring Data JPA**  
+- **Spring Data JPA**
+- **Thymeleaf**
 - **Bootstrap** (프론트엔드 스타일링)
 
 ---
